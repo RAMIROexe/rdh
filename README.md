@@ -1,2 +1,3 @@
-# rdh
-Here im hosting my first personal Website
+# RDH. - Personal Website
+
+This Websites functions as my Portfoliio wich i craftet by my self
